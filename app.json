@@ -17,12 +17,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icons.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nilesh08.travelreactnativeprojects"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icons.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "122616c6-c9b6-4ab3-923e-c1799bf7711a"
+      }
     }
   }
 }

@@ -58,7 +58,7 @@ const Discover = () => {
                             console.log(details?.geometry?.viewport);
                         }}
                         query={{
-                            key: 'AIzaSyDvBFa8TgqJC39J3kMsWXQgJG_1vZSzFyM',
+                            key: 'Google API Key',
                             language: 'en',
                         }}
                     />
